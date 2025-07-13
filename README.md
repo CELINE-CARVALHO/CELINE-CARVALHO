@@ -32,7 +32,7 @@
 
 ## 📫 How to reach me:
 - 📧 [carvalhoceline2105@gmail.com](mailto:carvalhoceline2105@gmail.com)  
-- 💼 [LinkedIn](linkedin.com/in/celine-carvalho-1280aa291)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/celine-carvalho-1280aa291/)  
 - 🌐 Portfolio (coming soon)
 
 ---
