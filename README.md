@@ -33,7 +33,8 @@
 ## 📫 How to reach me:
 - 📧 [carvalhoceline2105@gmail.com](mailto:carvalhoceline2105@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/celine-carvalho-1280aa291/)  
-- 🌐 celine-carvalho.github.io/MY_PORTFOLIO//
+- 🌐 [MY_PORTFOLIO](https://celine-carvalho.github.io/MY_PORTFOLIO//)
+- 
 
 ---
 
