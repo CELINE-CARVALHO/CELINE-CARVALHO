@@ -10,7 +10,7 @@
 ```
 
 # Celine Carvalho
-### AI/ML Engineer Intern · Data Science · Human-Centered AI
+### AI/ML Engineer · Data Science · Human-Centered AI
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://celine-carvalho.github.io/MY_PORTFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celine-carvalho-1280aa291/)
