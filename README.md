@@ -102,20 +102,6 @@ I'm open to:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CELINE-CARVALHO&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=CELINE-CARVALHO&theme=tokyonight"/>
-
-</div>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CELINE-CARVALHO&theme=tokyo-night)](https://github.com/CELINE-CARVALHO)
-
----
-
 <div align="center">
 
 *"Adaptability and creativity are my strongest assets — be it a neural network or a journey to a new city, I dive in with passion and purpose."*
